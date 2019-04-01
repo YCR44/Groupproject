@@ -1,0 +1,52 @@
+
+body {
+  background-color: #D66662;
+	color: #ECC8AE;
+	font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  height: 500px;
+  text-align: center;
+}
+
+h1 {
+  color: #190B28;
+  margin-left: 20px;
+}
+
+h3 {
+  color: #ECC8AE;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Montserrat", Courier;
+}
+
+h2 {
+  font-size: 8em;
+  font-weight: bolder;
+  text-align: center;
+  font-family: "Brush Script MT",cursive;
+  color: #190B28;
+}
+
+.topnav {
+  background-color: #0FA3B1;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #190B28;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #D66662;
+  color: black;
+}
