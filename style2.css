@@ -1,0 +1,52 @@
+
+body {
+  background-color: #190B28;
+	color: #ECC8AE;
+	font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  height: 500px;
+  float: left;
+}
+
+h1 {
+  color: #0FA3B1;
+  margin-left: 20px;
+}
+
+h3 {
+  color: #D66662;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Courier New", Courier;
+}
+
+h2 {
+  font-size: 15em;
+  font-weight: bolder;
+  text-align: center;
+  font-family: "Brush Script MT",cursive;
+  color: #F79A67;
+}
+
+.topnav {
+  background-color: #0FA3B1;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #190B28;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #D66662;
+  color: black;
+}
